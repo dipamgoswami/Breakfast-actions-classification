@@ -11,6 +11,7 @@ Experiments: Bidirectional LSTM are used to incorporate the temporal relations b
 (C) - 3 Bidirectional LSTM layers followed by Max-pooling and softmax classification layer. Hidden layer dimensions - 400.
 
 | Experiment | Validation Accuracy | Test Accuracy |
+| ---------- | ------------------- | ------------- |
 | (A) | 64.10% | 52.49% |
 | (B) | 68.00% | 51.17% |
 | (C) | 66.64% | 49.92% |
