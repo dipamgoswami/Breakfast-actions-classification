@@ -21,3 +21,5 @@ Experiments: Bidirectional LSTM are used to incorporate the temporal relations b
 | (C) | 66.64% | 49.92% |
 
 The keras framework is used for developing the models.
+
+The trained models and instructions to train and run the models in Google Colab using can be found at [link](#https://drive.google.com/drive/folders/1HHRV2878NvRXbfZEsTUhVULSPz9EjGPR?usp=sharing).
